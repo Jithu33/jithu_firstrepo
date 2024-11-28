@@ -1,0 +1,16 @@
+/* styles.css */
+.my-div {
+    background-color: lightblue;
+    color: darkblue;
+    padding: 20px;
+    border: 2px solid darkblue;
+    border-radius: 5px;
+    text-align: center;
+}
+.inner-div{
+    margin:10px;
+    background:lightblue;
+    width:200px;
+    height:100px;
+    
+}
